@@ -17,3 +17,5 @@ Notes from the [2023 SLC DevOps Days Conference](https://www.slcdevopsdays.org/)
 [9am Keynote by Cameo Doran - MOONSHOT](./day2/1_moonshot_ci_experimentation_innovation.md)
 
 [10am Developer Productivity Engineering](./day2/2_developer_productivity_engineering.md)
+
+[1:30pm Guts of Git](./day2/3_guts_of_git.md)
