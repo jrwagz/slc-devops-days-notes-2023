@@ -15,3 +15,5 @@ Notes from the [2023 SLC DevOps Days Conference](https://www.slcdevopsdays.org/)
 ## Day 2 - Wednesday March 15th, 2023
 
 [9am Keynote by Cameo Doran - MOONSHOT](./day2/1_moonshot_ci_experimentation_innovation.md)
+
+[10am Developer Productivity Engineering](./day2/2_developer_productivity_engineering.md)
